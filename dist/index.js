@@ -1,2 +1,2 @@
-console.log("was,no up");
+console.log("was up hommie");
 //# sourceMappingURL=index.js.map
